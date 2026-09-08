@@ -87,7 +87,7 @@ Pomodoro timer, daily affirmations, to-do list and journal, plus a promotional s
 
 **🍻 Live Client Project — Interactive Venue Hub**
 Team lead (6 people) · React, JavaScript, HTML/CSS
-QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend. Live in-venue.
+QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend.  [Live in-venue]([http://w23055682.nuwebspace.co.uk/tulip-app/todo](https://last-resort-2b189.web.app/#home)).
 
 </td>
 <td width="50%" valign="top">
@@ -103,9 +103,11 @@ Actively tidying up pinned repos and READMEs — check back for the trading bot 
 
 ### 🧠 More About Me
 
-I've always been pulled toward one question: *why does this actually work, and how could it work better?* That's what drew me to AI and cloud — automation and smarter decision-making quietly reshaping how entire industries operate. I like getting hands-on with new AI tools and tracing how they actually change workflows, not just reading the headlines about them.
+I like being the person who actually talks to the client, not just the one building for them. Running point on a live consultancy project last year, the best part wasn't the code — it was turning what someone half-explained over a conversation into something the team could actually ship. That's probably why automation and AI interest me more than most other CS topics: less "clever algorithm," more "here's how this changes someone's actual week."
 
-Outside of tech, I push myself in the same direct way. I co-founded a five-a-side kickabout with housemates and grew it into a sponsored, promotion-winning 11-a-side football club — the kind of thing that only works if you keep showing up on the weeks you don't feel like it. Same mindset applies to solo builds and long deliverables: consistency over motivation. 🔥
+Most of what I build happens around a part-time job, football and whatever else is on that week, so I've gotten fairly good at finishing things in short, deliberate bursts instead of waiting for a clear run of free time. The trading bot on here is a good example — paused, not abandoned, and back on the list this year.
+
+Off the course, I co-founded a five-a-side kickabout that turned into a sponsored, promotion-winning 11-a-side club — mostly by saying yes to things before I felt fully ready for them. 🔥
 
 ### 🧠⚡ Inspiration
 
