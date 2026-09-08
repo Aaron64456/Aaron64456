@@ -87,7 +87,7 @@ Pomodoro timer, daily affirmations, to-do list and journal, plus a promotional s
 
 **🍻 Live Client Project — Interactive Venue Hub**
 Team lead (6 people) · React, JavaScript, HTML/CSS
-QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend. [Live in-venue](https://last-resort-2b189.web.app/#home).
+QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend. Live in-venue.
 
 </td>
 <td width="50%" valign="top">
@@ -101,18 +101,16 @@ Actively tidying up pinned repos and READMEs — check back for the trading bot 
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 More About Me
 
-<div align="center">
+I've always been pulled toward one question: *why does this actually work, and how could it work better?* That's what drew me to AI and cloud — automation and smarter decision-making quietly reshaping how entire industries operate. I like getting hands-on with new AI tools and tracing how they actually change workflows, not just reading the headlines about them.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaron64456&show_icons=true&hide_title=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron64456&layout=compact&hide_title=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9&border_radius=10" />
+Outside of tech, I push myself in the same direct way. I co-founded a five-a-side kickabout with housemates and grew it into a sponsored, promotion-winning 11-a-side football club — the kind of thing that only works if you keep showing up on the weeks you don't feel like it. Same mindset applies to solo builds and long deliverables: consistency over motivation. 🔥
 
-<br/>
+### 🧠⚡ Inspiration
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron64456&background=0D1117&ring=2EC4B6&fire=2EC4B6&currStreakLabel=2EC4B6&border=2EC4B6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
-
-</div>
+> "Do the hard work, especially when you don't feel like it."
+> — Hamza Ahmed 🧠⚡
 
 ---
 
