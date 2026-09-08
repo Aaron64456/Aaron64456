@@ -87,7 +87,7 @@ Pomodoro timer, daily affirmations, to-do list and journal, plus a promotional s
 
 **🍻 Live Client Project — Interactive Venue Hub**
 Team lead (6 people) · React, JavaScript, HTML/CSS
-QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend.  [Live in-venue]([http://w23055682.nuwebspace.co.uk/tulip-app/todo](https://last-resort-2b189.web.app/#home)).
+QR-accessed interactive hub for a Newcastle pub — leaderboard, drink suggester, music requests, lighting control and idea box, with a password-protected admin backend.  [Live in-venue](https://last-resort-2b189.web.app/#home).
 
 </td>
 <td width="50%" valign="top">
