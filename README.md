@@ -119,10 +119,8 @@ Off the course, I co-founded a five-a-side kickabout that turned into a sponsore
 ### ⚽ Beyond the Code
 
 - Co-founder & former co-socials coordinator of **AFC Quagmire** — grew a 5-a-side kickabout into a sponsored, promotion-winning 11-a-side club, then handed it over to the next generation
-- Former events manager for **TAMSOC** (Tamil & Malayalam Society) — ran the society's biggest event of the year, the Asai Ball
 - Speak English and Malayalam (actively improving the latter)
 - Plays basketball and 7-a-side football weekly
-- Full UK driving licence · Lifeguard trained
 
 ---
 
