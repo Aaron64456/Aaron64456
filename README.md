@@ -111,8 +111,7 @@ Off the course, I co-founded a five-a-side kickabout that turned into a sponsore
 
 ### 🧠⚡ Inspiration
 
-> "Do the hard work, especially when you don't feel like it."
-> - Hamza Ahmed 🧠⚡
+> "Do the hard work, especially when you don't feel like it." - Hamza Ahmed 🧠⚡
 
 ---
 
